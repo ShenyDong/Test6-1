@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WebViewTest</string>
+    <string name="button">确定</string>
+    <string name="edit">填入网址</string>
+    <string name="chooser_title">MyBrowse</string>
+</resources>
